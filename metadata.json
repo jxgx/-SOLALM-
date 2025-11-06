@@ -1,0 +1,5 @@
+{
+  "name": "SOLALM",
+  "description": "A minimal SOL donation tool that rewards donors with an AI-generated, Tumblrcore-aesthetic image based on a Bible verse.",
+  "requestFramePermissions": []
+}
